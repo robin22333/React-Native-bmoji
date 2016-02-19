@@ -1,0 +1,3 @@
+rootProject.name = 'bmoji'
+
+include ':app'
