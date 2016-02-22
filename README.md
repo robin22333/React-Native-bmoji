@@ -12,7 +12,7 @@ https://facebook.github.io/react-native/docs/getting-started.html#content
 
 ### 感谢
 
-参考了https://github.com/qddegtya/A-ReactNative-TesterHome的代码，借用了icon图片:flushed:
+参考了 https://github.com/qddegtya/A-ReactNative-TesterHome 的代码，借用了icon图片:flushed:
 
 ### Demo
 
