@@ -7,8 +7,11 @@
 https://facebook.github.io/react-native/docs/getting-started.html#content
 
 ### Bug
+<del>
+[react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view) 下包含 ListView 的时候会有一个警告：'Warnings: ScrollView doesn't take rejection well - scrolls anyway'  <br/ > 详见  https://github.com/brentvatne/react-native-scrollable-tab-view/issues/122
+</del>
 
-[react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view) 下包含 ListView 的时候会有一个警告：'Warnings: ScrollView doesn't take rejection well - scrolls anyway'，详见 https://github.com/brentvatne/react-native-scrollable-tab-view/issues/122
+Bug已被修复 https://github.com/brentvatne/react-native-scrollable-tab-view/pull/174
 
 ### 感谢
 
